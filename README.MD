@@ -35,7 +35,7 @@ http://[      ]:8087/    to access  airflow
 the youtube video shows the full process using google cloud VM instance, to keep things short, the preperation of the VM is not provided, but can be, upon request. 
 
 the pipeline comes with a csv data file (data.csv), using the Jupiter notebook it is possible to create further data but 
-their would be a need to elevate the permissions, further can be found in the Jupiter notebook.
+there would be a need to elevate the permissions, further can be found in the Jupiter notebook.
 Note: Docker for ubuntu is provided in the utilities
 
 oRefai
